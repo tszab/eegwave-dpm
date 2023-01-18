@@ -1,0 +1,1 @@
+from .eegwave import EEGWave
